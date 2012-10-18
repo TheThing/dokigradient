@@ -1,7 +1,9 @@
 GradientCorporation
 ===================
 
-Improved version of Gradient Factory currently in development.
+This is an improved version of Gradient Factory (currently in development).
+One of the major changes is the ability to generate gradient based on the tags specified in the line rather than the styles.
+Also retains any other tags for each line it gradients.
 
 
 Still Unsupported
