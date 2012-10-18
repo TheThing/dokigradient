@@ -20,7 +20,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ]]
 
-script_name = "Gradient Corporation"
+script_name = "Doki Gradient"
 script_description = "Color gradient generator by ai-chan, improved by TheThing"
 script_author = "Muhammad Lukman Nasaruddin (ai-chan), Jonatan Nilsson (TheThing)"
 script_version = "1.9"
@@ -702,6 +702,6 @@ end
 
 
 -- register macros
-aegisub.register_macro("Generate Gradient", "Generate color gradient", corporation.macro_process)
+aegisub.register_macro("Doki Gradient", "Generate color gradient", corporation.macro_process)
 -- Removing for now
 -- aegisub.register_macro("Un-gradient", "Un-gradient", corporation.macro_undo, corporation.validate_undo)
