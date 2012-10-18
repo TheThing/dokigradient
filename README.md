@@ -14,6 +14,7 @@ How to Install
 --------------
 
 Automatic loading
+
 1. Download gradient-corporation.lua
 2. Place it in the _autoload_ folder under _automation_ folder of your aegisub installation folder
 
