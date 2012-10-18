@@ -4,11 +4,10 @@ GradientCorporation
 Improved version of Gradient Factory currently in development.
 
 
-Planned changes
----------------
-1. Fix so the gradient processor retains all the tags in the original lines.
-2. Make it un-dependant of styles.
-3. Fix any other bugs.
+Still Unsupported
+-----------------
+* GradientCorporation doesn't support 'by character' gradient effect.
+* GradientCorporation doesn't support 'by syllable' gradient effect.
 
 How to Install
 --------------
